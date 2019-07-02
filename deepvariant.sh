@@ -25,3 +25,6 @@ sudo docker run\
         --reads=/indir/${INPUT_BAM}\
         --output_vcf=/outdir/${OUTPUT_VCF}\
         --num_shards=${N_SHARDS}
+        
+bgzip ${OUTPUT_DIR}/${OUTPUT_VCF}
+tabix ${OUTPUT_DIR}/${OUTPUT_VCF}.gz
