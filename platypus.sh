@@ -1,1 +1,10 @@
+#!bin/bash
 
+REF_DIR=
+REF=
+
+INPUT_DIR=
+INPUT_BAM=
+
+OUTPUT_DIR=
+OUTPUT_VCF=
