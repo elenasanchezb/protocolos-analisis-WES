@@ -1,2 +1,2 @@
 # protocolos-analisis-WES
-Esta página recoge los scripts creados durante la elaboración del trabajo "Diseño y validación de protocolos para el análisis de datos WES".
+Esta página recoge los scripts creados durante la elaboración del trabajo "Diseño y evaluación de protocolos bioinformáticos para el análisis de datos de secuenciación de exomas completos".
